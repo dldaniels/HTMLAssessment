@@ -1,0 +1,26 @@
+h2 {
+  color: green;
+  font-family: sans-serif;
+}
+h3 {
+  color:orange;
+  font-family: sans-serif;
+}
+h4 {
+  color:blue;
+  font-family: sans-serif;
+}
+h5 {
+  color: purple;
+  font-family: sans-serif;
+}
+th {
+  color: silver;
+  font-weight: bold;
+}
+table, th, td {
+  border: 1px solid black;
+}
+table, th, td {
+  text-align:center;
+}
