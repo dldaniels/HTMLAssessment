@@ -24,7 +24,7 @@ table, th, td {
 table, th, td {
   text-align:center;
 }
-ul {
+ul{
   list-style-type: square;
 }
 a:hover {
@@ -34,4 +34,11 @@ a:hover {
 blockquote {
   background-color:blue;
   color: orange;
+}
+ul > li:first-child::after{
+  content: "";
+  background-image:url("Broncos Logo");
+}
+form > ul {
+  list-style-type: none;
 }
