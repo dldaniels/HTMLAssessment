@@ -24,3 +24,14 @@ table, th, td {
 table, th, td {
   text-align:center;
 }
+ul {
+  list-style-type: square;
+}
+a:hover {
+  color: hotpink;
+  text-decoration: none;
+}
+blockquote {
+  background-color:blue;
+  color: orange;
+}
